@@ -1,0 +1,12 @@
+[submodule "Gate-Level-Stack-Based-Fibonacci-Using-FPGA-Logic-Cells"]
+	path = Gate-Level-Stack-Based-Fibonacci-Using-FPGA-Logic-Cells
+	url = https://github.com/parnianf/Gate-Level-Stack-Based-Fibonacci-Using-FPGA-Logic-Cells.git
+[submodule "Stack-Based-Customized-Fibonacci-Hardware-Implementation"]
+	path = Stack-Based-Customized-Fibonacci-Hardware-Implementation
+	url = https://github.com/parnianf/Stack-Based-Customized-Fibonacci-Hardware-Implementation.git
+[submodule "Multi-Layer-Perceptron-Neural-Network-Hardware-Implementation"]
+	path = Multi-Layer-Perceptron-Neural-Network-Hardware-Implementation
+	url = https://github.com/parnianf/Multi-Layer-Perceptron-Neural-Network-Hardware-Implementation.git
+[submodule "Stack-Based-Combination-Function-Hardware-Implementation"]
+	path = Stack-Based-Combination-Function-Hardware-Implementation
+	url = https://github.com/parnianf/Stack-Based-Combination-Function-Hardware-Implementation.git
